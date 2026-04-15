@@ -1,7 +1,7 @@
 # Hi, I'm Amit Kumar Nirala 👋
 ### Data Analyst | 3+ Years Experience | EdTech & Business Insights
 
-I am a Data Analyst passionate about bridging business problems with data-driven solutions[cite: 4]. [cite_start]I specialize in optimizing conversion funnels and automating complex workflows to drive ROI.
+I am a Data Analyst passionate about bridging business problems with data-driven solutions. I specialize in optimizing conversion funnels and automating complex workflows to drive ROI.
 
 - 🔭 **Currently:** Driving product insights at Cuemath.
 - ⚡ **Superpower:** Reducing manual work by 70%+ through ETL and Automation.
